@@ -1,0 +1,40 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  margin-bottom: -4rem;
+  background-color: #1c3d52;
+  color: beige;
+}
+
+.jumbotron img {
+  width: 200px;
+  height: 200px;
+}
+
+#about {
+  background-color: #2c5f78;
+
+  color: beige;
+}
+
+.keterangan {
+  font-size: 18px;
+}
+#skills {
+  background-color: #1c3d52;
+}
+#skills img {
+  width: 285px;
+  height: 200px;
+}
+.myskills {
+  color: beige;
+}
+#contact {
+  background-color: #2c5f78;
+
+  color: beige;
+  margin-bottom: -5rem;
+}
